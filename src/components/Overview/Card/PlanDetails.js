@@ -40,7 +40,7 @@ export default function PlanDetails() {
                 tokens={{
                   fontSize: 18,
                   fontWeight: 500,
-                  color: 'rgb(65, 69, 71);'
+                  color: 'rgb(65, 69, 71)'
                 }}
               >
                 <b>{data.speed}</b>
